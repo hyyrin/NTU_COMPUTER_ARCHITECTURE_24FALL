@@ -1,1 +1,1 @@
-# NTU_COMPUTER_ARCHITECTURE_24FALL
+2024 fall computer architecture programming assignments @CSIE3340-02
